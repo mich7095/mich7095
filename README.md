@@ -7,7 +7,7 @@
 </h3> 
 
 <h2 align="center">
-I'm a Data scientist📊, Full stack developer 💻 , and Scrum master👩‍💻!
+I'm a Data scientist📊, Full stack developer 💻  and Scrum master👩‍💻!
 </h2> 
 
 I know it's strange, in recent years I have held leadership positions but without leaving technical things.
